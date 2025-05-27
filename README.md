@@ -2,7 +2,7 @@
 ## Sou estudante de matemática e da área da tecnologia.
 
 ### Sou graduando em matemática pela UFRJ, o foco da minha graduação desde o princípio foi a área da tecnologia e já trabalhei em alguns projetos dentro da faculdade.
-Skills: Amar o flamengo e um pouquinho Python
+
 
 - 🌱 Atualmente passo meu tempo aperfeiçoando meu desenvolvimento front-end.
     - Após alguns anos trabalhando com back-end e dados percebi que minha verdadeira vocação é no front-end. 
