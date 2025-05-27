@@ -10,5 +10,5 @@
   - Para entrar em contato comigo através do e-mail: joaolukaoliveira07@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jotaelebbk/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaelebbk)](https://github.com/jotaelebbk/github-readme-stats)
 
