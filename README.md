@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Luka (jotaelebbk)
+# 👋 Olá, eu sou o João Luka
 
 **📍 Rio de Janeiro, Brasil** 
 
@@ -40,25 +40,16 @@
 
 ## 📚 Atualmente
 
-- 💡 Aprofundando meus conhecimentos em  **Java** e padrões de arquitetura **Back‑end**.  
+- Estou aprofundando meus conhecimentos em  **Java** e padrões de arquitetura **Back‑end**.  
 - Explorando testes automatizados e práticas com **JavaScript** e **Mocha**.
 
 ---
-
-## 📫 Contato
-
-- 📧 **E‑mail**: joaolukaoliveira07@gmail.com
-- 🔗 **LinkedIn**: [in/joaolukaoliveira](https://www.linkedin.com/in/joaolukaoliveira)
-- 📷 **Instagram**: [@joaoluka_](https://instagram.com/joaoluka_)
-
----
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaelebbk&show_icons=true&theme=default)
 
 ---
 
 ## 🤝 Vamos colaborar, tenho interesse em entrar na bolha open-source da programação!
 
----
+
           
 
