@@ -40,8 +40,7 @@
 
 ## 📚 Atualmente
 
-- Estou aprofundando meus conhecimentos em  **Java** e padrões de arquitetura **Back‑end**.  
-- Explorando testes automatizados e práticas com **JavaScript** e **Mocha**.
+- Além da faculdade estou estudando através do curso.dev do grande Filipe Deschamps.
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaelebbk&show_icons=true&theme=default)
